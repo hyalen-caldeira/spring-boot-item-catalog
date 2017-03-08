@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Item Catalog API
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: hyalen
+Implementation-Vendor-Id: us.hyalen.springbootprojects
+Build-Jdk: 1.8.0_77
+Implementation-URL: http://projects.spring.io/spring-boot/item-catalog
+ -sts/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
