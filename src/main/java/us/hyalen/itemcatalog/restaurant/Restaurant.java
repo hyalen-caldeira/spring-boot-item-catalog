@@ -1,4 +1,4 @@
-package us.hyalen.springbootprojects.entity;
+package us.hyalen.itemcatalog.restaurant;
 
 public class Restaurant {
 	private int id;
